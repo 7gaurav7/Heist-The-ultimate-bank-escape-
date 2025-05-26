@@ -1,5 +1,5 @@
 import pygame
-from bank_map import TILE_SIZE, BANK_MAP 
+from map import TILE_SIZE, BANK_MAP 
 
 class Player:
     def __init__(self, x, y, color=(0, 200, 0)):
