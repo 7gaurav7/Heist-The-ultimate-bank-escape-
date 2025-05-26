@@ -1,6 +1,6 @@
 import pygame
 import sys
-from bank_map import draw_map, BANK_MAP, TILE_SIZE
+from map import draw_map, BANK_MAP, TILE_SIZE
 from player import Player
 
 pygame.init()
